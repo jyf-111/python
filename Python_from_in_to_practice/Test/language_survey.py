@@ -1,4 +1,3 @@
-from urllib import response
 from survey import AnonymousSurvey
 
 question = 'What language did you first learn to speak?'
